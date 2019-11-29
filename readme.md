@@ -3,3 +3,4 @@ Nowadays, the investigation of Gene-Trait association through literature mining 
 In order to propel the research of trait mapping in plant-related literatures, our team is proposing a ``Plant Trait Ontology Mapping of 2k Literatures" for BLAH6, which consists of three open tasks and provides curated data set. The proposal is to encourage a joint research among BioNLP community towards the TO ontology mapping, trait specification of plant science papers, and gene-trait association studies in rice.
 
 test edit.
+again
